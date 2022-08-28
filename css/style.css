@@ -1,0 +1,145 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    width: 100%;
+    background-color: #F0FFF0;
+}
+.navbar .navbar-brand img{
+    width: 100%;
+}
+.navbar .nav-item{
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #000000;
+}
+.cl1{
+    font-size: 16px;
+    line-height: 0.5cm;
+    color: #FD511A;
+}
+h1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    color: #000000;
+}
+h1 span{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    color: #21B573;
+}
+.p2{
+    font-family: 'poppins';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #000000;;  
+}
+.btn1{
+    width: 114px;
+    height: 42px;
+    padding: 8px 28px;
+    background-color: #21B573;
+}
+.btn2{
+    width: 150px;
+    height: 42px;
+    padding: 8px 36px;
+    background-color: #21B573;
+}
+.btn3{
+    width: 137px;
+    height: 35px;
+    padding: 5px 20px;
+    background-color: #21B573;
+    border-radius: 20px;
+    border: none;
+}
+.inner-feature{
+    width: 270px;
+    height: 270px;
+    margin: 0px 10px;
+}
+.inner-feature img{
+    width: 45%;
+    margin-bottom: 0.5cm;
+}
+.feature{
+    margin-top: 1cm;
+    margin-bottom: 2.5cm;
+}
+.inner-feature{
+    text-align: center;
+    background-color: #F8FFFB;
+    border-radius: 20px;
+    padding: 1cm;
+}
+.feature .inner-feature:hover{
+    background-color: #ffffff;
+    box-shadow: 10px 20px 40px rgba(0 ,0, 0, 0.1);
+}
+.feature .inner-feature:focus{
+    border-width: 2px;
+    border: #4FB2FA;
+}
+.course{
+    text-align: center;
+    margin-bottom: 1.5cm;
+}
+.course h2{
+    color: #413960;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 56px;
+}
+.online-course{
+    width: 100%;
+    margin: 1cm auto;
+}
+.card{
+    width: 370px;
+    height: 483px;
+    border-radius: 25px;
+    box-shadow: 10px 20px 40px rgba(0 ,0, 0, 0.1);
+}
+.online-course .card img{
+    width: 90%;
+    margin: 19px;
+}
+.online-course .date{
+    font-size: 14px;
+
+}
+.online-course .date img{
+    width: 20px;
+    margin: 40px 4px;
+}
+.online-course .seat img{
+    width: 20px;
+    margin: 40px 4px;
+}
+.testimonial{
+    margin: 2cm auto;
+}
+.testimonial h2{
+    color: #413960;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 56px;
+}
+.testimonial img{
+    display: inline-block;
+    width: 8%;
+    margin: 20px auto;
+}
+.testimonial p{
+    display: inline-block;
+    max-width: 600px;
+    margin: 50px auto;
+}
